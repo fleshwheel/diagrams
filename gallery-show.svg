@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg7826"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="gallery-show.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7828"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3304083"
+     inkscape:cx="271.34527"
+     inkscape:cy="364.92556"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs7823">
+    <rect
+       x="93.228417"
+       y="118.78004"
+       width="97.613652"
+       height="55.860135"
+       id="rect9961" />
+    <rect
+       x="147.05802"
+       y="461.22526"
+       width="113.18693"
+       height="46.094912"
+       id="rect9043" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#efefef;fill-opacity:0.298158;stroke:#000000;stroke-width:0.203;stroke-opacity:1"
+       id="rect8362"
+       width="123.64975"
+       height="92.194138"
+       x="23.669088"
+       y="51.671246" />
+    <rect
+       style="fill:#efefef;fill-opacity:0.298158;stroke:#000000;stroke-width:0.232871;stroke-opacity:1"
+       id="rect8987"
+       width="40.750004"
+       height="17.755905"
+       x="30.118629"
+       y="119.9204" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9041"
+       style="fill:#efefef;stroke-width:0.76724409;font-size:37.33333333px;-inkscape-font-specification:W95FA;font-family:W95FA;text-align:center;stroke:#000000;fill-opacity:0.29815799;stroke-opacity:1;white-space:pre;shape-inside:url(#rect9043)" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;font-family:W95FA;-inkscape-font-specification:W95FA;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.203;stroke-opacity:0.0784442"
+       x="50.498569"
+       y="132.34447"
+       id="text9049"><tspan
+         sodipodi:role="line"
+         id="tspan9047"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.203;stroke-opacity:0.0784442"
+         x="50.498569"
+         y="132.34447">bed</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.775905;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9879"
+       width="17.844946"
+       height="10.340498"
+       x="-23.76778"
+       y="70.983276"
+       ry="5.170249"
+       transform="matrix(0.82248323,-0.56878937,0.67238926,0.74019774,0,0)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.9487672,26.948662)"
+       id="text9959"
+       style="font-size:37.3333px;font-family:W95FA;-inkscape-font-specification:W95FA;text-align:center;white-space:pre;shape-inside:url(#rect9961);fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.16882;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="127.8485"
+         y="153.99499"
+         id="tspan12537">tv</tspan></text>
+  </g>
+</svg>
